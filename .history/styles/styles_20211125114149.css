@@ -1,0 +1,27 @@
+/* shift+alt+A para comentar */
+/*  1° estilos relacionados a posicionamiento
+    2° Modelo de caja (box model width height lo que da dimensión)
+    3° Tipografías
+    4° Visuales (sombras)
+    5° Otros */
+:root {
+  /* colores (creo variables para no andar buscando los codigos */
+  --bitcoin-orange: #f7931a;
+  --soft-orange: #ffe9d5;
+  --secondary-blue: #1a9af7;
+  --soft-blue: #e7f5ff;
+  --warm-black: #201e1c;
+  --black: #282623;
+  --grey: #bababa;
+  --off-white: #faf8f7;
+  --just-white: #fff;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+  font-family: "DM Sans", sans-serif;
+}

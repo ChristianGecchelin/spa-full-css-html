@@ -1,0 +1,7 @@
+.product-cards--container {
+  display: flex;
+}
+.plans-container--slider {
+  justify-content: center;
+  overflow-x: hidden;
+}

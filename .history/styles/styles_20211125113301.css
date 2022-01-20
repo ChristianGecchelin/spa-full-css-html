@@ -1,0 +1,14 @@
+/* shift+alt+A para comentar */
+/* 1° estilos relacionados a posicionamiento
+2° Modelo de caja (box model)
+3° Tipografías
+4° Visuales (sombras)
+5° Otros */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}

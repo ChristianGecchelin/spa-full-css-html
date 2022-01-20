@@ -1,0 +1,9 @@
+/* shift+alt+A para comentar */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
